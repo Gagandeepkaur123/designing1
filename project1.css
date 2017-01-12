@@ -1,0 +1,17 @@
+.container{
+         padding:8.88px;
+         margin-left: 77.77px;
+}
+ .a{
+   padding:.05px;
+   margin-left: 93.33px;
+}
+.b{
+padding:.05px;
+  margin-left: 97.77px;
+}
+@media screen and (max-width: 500px) {
+ .container{
+        padding: auto;
+        margin-left: auto;
+}

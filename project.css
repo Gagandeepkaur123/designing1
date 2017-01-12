@@ -1,0 +1,114 @@
+  html {
+    font-family: 'Economica', sans-serif;
+    background-image: url("img2.jpg");
+     background-size:100%;
+    background-repeat: no-repeat;
+     background-attachment: fixed;
+    background-position: center;
+  }
+.container {
+  display: flex;
+  border:none;
+  padding:80px;
+  margin-left: 700px;
+}
+a {
+  padding: 20px;
+  text-decoration: none;
+  color: grey;
+}
+a:hover {
+         color: black;
+       }
+.box-shadow-menu {
+  position: relative;
+  padding-left: 1.25em;
+}
+.box-shadow-menu:before {
+  content: "";
+  position: absolute;
+  left: 1.5em;
+  top: 1.5em;
+  width: 1em;
+  height: 0.15em;
+  background: black;
+  box-shadow: 
+    0 0.25em 0 0 black,
+    0 0.5em 0 0 black;
+}
+.a {
+  display: flex;
+  border:none;
+  padding:.5px;
+  margin-left: 840px;
+  width: 35px;
+    height: 1px;
+    background-color: grey;
+}
+.b {
+  display: flex;
+  border:none;
+  padding:.5px;
+  margin-left: 880px;
+  width: 40px;
+    height: 1px;
+   margin-top: 13px;
+    color: grey;
+  font-family: 'Antic', sans-serif;
+}
+.c {
+  display: flex;
+  border:none;
+  padding:.5px;
+  margin-left: 840px;
+  width: 40px;
+    height: 1px;
+   margin-top: 100px;
+    color: black;
+  font-family: 'Frank Ruhl Libre', sans-serif;
+  font-size: 80px;
+  font-type: bold;
+}
+.d {
+  display: flex;
+  border:none;
+  padding:.5px;
+  margin-left: 1110px;
+  width: 40px;
+    height: 1px;
+   margin-top: 70px;
+    color: grey;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+.e{
+    display: flex;
+  border:none;
+  padding:.5px;
+  margin-left: 890px;
+  width: 40px;
+    height: 1px;
+   margin-top: 0px;
+    color: black;
+  font-family: 'Frank Ruhl Libre', sans-serif;
+  font-size: 80px;
+  font-type: bold;
+}
+.f{
+  
+  border:none;
+  padding:.5px;
+  margin-left: 937px;
+  color: black;
+    font-family: 'Lobster', cursive;
+   margin-top: 180px;
+}
+.g {
+  display: flex;
+  border:none;
+  padding:.5px;
+  margin-left: 900px;
+  width:90px;
+    height: 1px;
+    background-color:black;
+ margin-top: 10px;
+}
